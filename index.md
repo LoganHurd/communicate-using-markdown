@@ -10,3 +10,7 @@
 $ javac CodeExample.java
 $ java CodeExample.class 1 2 3 4
 ```
+
+- [x] List item one
+- [ ] List item two
+- [ ] List item three
